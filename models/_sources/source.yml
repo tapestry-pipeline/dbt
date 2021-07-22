@@ -1,0 +1,13 @@
+version: 2
+sources:
+  - name: snowflake
+    database: AIRBYTE_DATABASE
+    schema: AIRBYTE_SCHEMA
+    loader: Snowflake
+    quoting:
+      database: false
+      schema: false
+      identifier: false
+    tables:
+      - name: TAPESTRY_WEBINAR_REGISTRANTS
+      - name: TAPESTRY_CONTACT
