@@ -1,8 +1,7 @@
-version: 2
 sources:
   - name: snowflake
-    database: AIRBYTE_DATABASE
-    schema: AIRBYTE_SCHEMA
+    database: TAPESTRY_DATABASE
+    schema: TAPESTRY_SCHEMA
     loader: Snowflake
     quoting:
       database: false
