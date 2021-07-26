@@ -11,4 +11,5 @@ select distinct coalesce(zoom.EMAIL, sf.EMAIL) as EMAIL,
 coalesce(zoom.FIRST_NAME, sf.FIRSTNAME) as FNAME,
 coalesce(zoom.LAST_NAME, sf.LASTNAME) as LNAME
 from zoom 
+where EMAIL is not null
 full join sf ON sf.EMAIL=zoom.EMAIL
