@@ -1,3 +1,4 @@
+version: 2
 sources:
   - name: snowflake
     database: TAPESTRY_DATABASE
