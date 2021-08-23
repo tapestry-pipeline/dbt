@@ -4,7 +4,7 @@
 [![shields.io npm license badge](https://img.shields.io/npm/l/tapestry-pipeline)][npm]
 [![shields.io custom website link badge](https://img.shields.io/static/v1?label=website&message=tapestry-pipeline.github.io&color=blue)][website]
 
-[skip to the tutorial]()
+[skip to the tutorial](https://github.com/tapestry-pipeline/dbt#Steps-for-Configuring-DBT:)
 ## Overview
 Tapestry is an open-source orchestration framework for the deployment of user entity data pipelines. It allows users to easily configure and launch an end-to-end data pipeline hosted on Amazon Web Services. Our automated solution combines best-in-class tools to create a warehouse-centric data stack, offering built-in data ingestion, transformation, and newly emerging data syncing (also known as "reverse ETL") technologies. Our inclusion of a reverse ETL component solves the "last mile" problem by providing the ability to operationalize collected user data in near real-time.
 
@@ -24,7 +24,13 @@ Tapestry is an open-source orchestration framework for the deployment of user en
 
 ## Table of Contents
 - [Getting Started](https://github.com/tapestry-pipeline/dbt#getting-started)
-- [Prerequisites](https://github.com/tapestry-pipeline/dbt#prerequisites)
+  - [Prerequisites](https://github.com/tapestry-pipeline/dbt#prerequisites)
+  - [Video Tutorial](https://github.com/tapestry-pipeline/dbt#steps-for-configuring-dbt:)
+- [Further Information on DBT](https://github.com/tapestry-pipeline/dbt#further-information-on-dbt)
+  - [What is DBT](https://github.com/tapestry-pipeline/dbt#what-is-dbt)
+  - [How does Tapestry use DBT?](https://github.com/tapestry-pipeline/dbt#how-does-tapestry-use-dbt?)
+  - [DBT Core vs DBT Cloud?](https://github.com/tapestry-pipeline/dbt#dbt-core-vs-dbt-cloud?)
+  - [How does Tapestry help set up DBT Cloud?](https://github.com/tapestry-pipeline/dbt#how-does-tapestry-help-set-up-dbt-cloud?)
 - [Helpful Resources](https://github.com/tapestry-pipeline/dbt#helpful-resources)
 
 ---
