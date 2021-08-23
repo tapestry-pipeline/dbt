@@ -41,11 +41,14 @@ Tapestry is an open-source orchestration framework for the deployment of user en
   - Otherwise, you just need an email and a Github account to set up a DBT cloud account
 
 ### Steps for Configuring DBT:
-  - Watch this quick video tutorial for how to sign up for DBT, and configure it to connect with Snowflake. Assuming you're in the middle of running `tapestry kickstart`, you will have a new table called `email_model` that is now properly cleaned and formatted to send data to Mailchimp. The `email_model` table pulls and transforms data from the Salesforce `TAPESTRY_CONTACT` table and the Zoom `TAPESTRY_WEBINAR_REGISTRANTS` table.
+  - [Watch this quick video tutorial (displayed below)](https://www.loom.com/share/a71031ccd34b4279a241886fd99719b6) for how to sign up for DBT, and configure it to connect with Snowflake. Assuming you're in the middle of running `tapestry kickstart`, you will have a new table called `email_model` that is now properly cleaned and formatted to send data to Mailchimp in your Snowflake warehouse. The `email_model` table pulls and transforms data from the Salesforce `TAPESTRY_CONTACT` table and the Zoom `TAPESTRY_WEBINAR_REGISTRANTS` table.
+  
+  DBT Set up and Configuration Tutorial
+
+  [![Watch the video](https://cdn.loom.com/sessions/thumbnails/a71031ccd34b4279a241886fd99719b6-1629694726789-with-play.gif)](https://www.loom.com/share/a71031ccd34b4279a241886fd99719b6)
 
 
-
-
+ 
 --------
 [npm]: https://www.npmjs.com/package/tapestry-pipeline
 [website]: https://tapestry-pipeline.github.io/
