@@ -28,9 +28,9 @@ Tapestry is an open-source orchestration framework for the deployment of user en
   - [Video Tutorial](https://github.com/tapestry-pipeline/dbt#steps-for-configuring-dbt:)
 - [Further Information on DBT](https://github.com/tapestry-pipeline/dbt#further-information-on-dbt)
   - [What is DBT](https://github.com/tapestry-pipeline/dbt#what-is-dbt)
-  - [How does Tapestry use DBT?](https://github.com/tapestry-pipeline/dbt#how-does-tapestry-use-dbt?)
-  - [DBT Core vs DBT Cloud?](https://github.com/tapestry-pipeline/dbt#dbt-core-vs-dbt-cloud?)
-  - [How does Tapestry help set up DBT Cloud?](https://github.com/tapestry-pipeline/dbt#how-does-tapestry-help-set-up-dbt-cloud?)
+  - [How does Tapestry use DBT?](https://github.com/tapestry-pipeline/dbt#how-does-tapestry-use-dbt)
+  - [DBT Core vs DBT Cloud?](https://github.com/tapestry-pipeline/dbt#dbt-core-vs-dbt-cloud)
+  - [How does Tapestry help set up DBT Cloud?](https://github.com/tapestry-pipeline/dbt#how-does-tapestry-help-set-up-dbt-cloud)
 - [Helpful Resources](https://github.com/tapestry-pipeline/dbt#helpful-resources)
 
 ---
