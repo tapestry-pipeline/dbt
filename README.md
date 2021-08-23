@@ -52,10 +52,11 @@ Tapestry is an open-source orchestration framework for the deployment of user en
   **DBT Set Up and Configuration Tutorial**
 
   [![Watch the video](https://cdn.loom.com/sessions/thumbnails/a71031ccd34b4279a241886fd99719b6-1629694726789-with-play.gif)](https://www.loom.com/share/a71031ccd34b4279a241886fd99719b6)
----
-## Further Information on DBT
 
 ---
+
+## Further Information on DBT
+
 
 ### What is DBT?
   [DBT](https://docs.getdbt.com/docs/introduction), also known as Data Build Tool,  is a SQL-Based transformation tool that Tapestry utilizes during the `tapestry kickstart` command. It enables non-developers to create data models with SQL-like `SELECT` statements; which DBT wraps with SQL to generate views or tables in the data warehouse.
