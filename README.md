@@ -40,8 +40,6 @@ Tapestry is an open-source orchestration framework for the deployment of user en
   -  It's directly meant for anyone that is in the middle of setting up a data pipeline by running Tapestry's  `kickstart` command and has been prompted to 'Configure DBT' by reviewing Tapestry's DBT Github repository. 
   -  This walkthrough can also be used as a helpful example of how to set up DBT Cloud with Snowflake or another cloud data warehouse.
 
----
-
 ### Prerequisites
   - If using this tutorial while in the middle of running `tapestry kickstart`, all of the requirements specified [in Tapestry's readme](https://github.com/tapestry-pipeline/tapestry-cli) should have already been installed.
   - Otherwise, you just need an email and a Github account to sign up for DBT Cloud.
